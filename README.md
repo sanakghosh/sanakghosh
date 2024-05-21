@@ -9,5 +9,6 @@
 * [Mail](mailto:iosdevdose@yahoo.com)
 * [LinkedIn](https://bd.linkedin.com/in/sanak-ghosh-7839581b7)
 * [Twitter](https://twitter.com/sanak_iosdev)
-* [WhatsApp](https://wa.me/qr/QIAMESXRTYZRI1)
-📄 [Resume](https://drive.google.com/file/d/1AZL2tm5K7iOv8Us8bKgDHmElol-4bLl3/view?usp=sharing) 
+* [WhatsApp](https://wa.me/qr/QIAMESXRTYZRI1) <br/>
+
+📄 [Resume](https://drive.google.com/file/d/1AZL2tm5K7iOv8Us8bKgDHmElol-4bLl3/view?usp=sharing) <br/>
