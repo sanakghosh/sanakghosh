@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Sanak! 👋
 
-<!--
-**sanakghosh/sanakghosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨🏻‍💻 I'm an iOS Engineer specializing in Apple platform development.
+📱 I developed a successful fitness app called [JawlineKit- Face Yoga](https://apps.apple.com/ua/app/jawlinekit-face-yoga/id6483934202), getting 20+ new users daily organically.
+👨‍🎓 I'm studying Computer Science at University of the People (California, United States).
+⛳️ I am a passionate iOS Engineer with experience in this field. I am proficient in the Swift programming language and have a strong understanding of the iOS development ecosystem. I am also an experienced user interface designer and can create user-friendly, dynamic apps. I am a highly motivated and results-oriented individual with a strong work ethic. I am also a team player and enjoy working in a collaborative environment.
+👉 More About Me - [click here](https://iosdevdose.wixsite.com/my-site)
+📩 Reach me:
+* [Mail](mailto:iosdevdose@yahoo.com)
+* [LinkedIn](https://bd.linkedin.com/in/sanak-ghosh-7839581b7)
+* [Twitter](https://twitter.com/sanak_iosdev)
+* [WhatsApp](https://wa.me/qr/QIAMESXRTYZRI1)
+📄 [Resume](https://drive.google.com/file/d/1AZL2tm5K7iOv8Us8bKgDHmElol-4bLl3/view?usp=sharing) 
